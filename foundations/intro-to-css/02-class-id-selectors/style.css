@@ -1,0 +1,16 @@
+p {
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#even2 {
+    color: blue;
+    font-size: 36px;
+}
+#odd3 {
+    font-size: 24px;
+}
+#even4 {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
